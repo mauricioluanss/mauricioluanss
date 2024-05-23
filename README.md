@@ -1,4 +1,4 @@
-I'm Mauricio, and I'm a Computer Networks technician. I created this repository to store various tutorials that can make life easier for end users and IT professionals.
+I'm Mauricio, and I'm a Computer Networks technician. I created this page to store various tutorials that can make life easier for end users and IT professionals.
 
 <!---
 mauricioluanss/mauricioluanss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
