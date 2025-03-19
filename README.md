@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://br.linkedin.com/in/mauricioluanss" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://payerbr.slack.com/team/mauricio" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=flat" height="25" alt="slack logo"  />
 </div>
 
