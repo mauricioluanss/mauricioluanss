@@ -57,7 +57,3 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/mauricioluanss/mauricioluanss/output/snake.svg" alt="Snake animation" />
-
-###
