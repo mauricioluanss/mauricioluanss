@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 Meus atributos: </h3>
 
 ###
 
