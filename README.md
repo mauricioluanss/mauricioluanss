@@ -2,12 +2,6 @@
 mauricioluanss/mauricioluanss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="left">
-  <img height="130" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
 ###
