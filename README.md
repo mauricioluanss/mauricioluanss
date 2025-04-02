@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mauricioluanss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mauricioluanss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=black&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
