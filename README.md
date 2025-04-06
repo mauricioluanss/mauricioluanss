@@ -2,15 +2,15 @@
 mauricioluanss/mauricioluanss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">Sobre mim</h3>
 
 ###
 
-<p align="left">- 🔭 Sou Analista de Suporte Jr, atuando no segmento de meios de pagamentos (TEF / Sistemas de Automação Comercial).<br>- 📚 Sou estudante de Redes de Computadores, e venho aperfeiçoando meu conhecimento em desenvolvimento de API com Java / Spring.<br>- ⚡ Gosto de desenvolver soluções para automatizar tarefas. Tenho gosto pelo mundo Linux e aptidão para atuar com resolução de problemas.<br><br>Meu objetivo imediato é ingressar no curso de Análise e Desenvolvimento de Sistemas e caminhar para desenvolvimento Backend.</p>
+<p align="left">- Sou Analista de Suporte Jr, atuando no segmento de meios de pagamentos (TEF / Sistemas de Automação Comercial).<br>- Sou estudante de Redes de Computadores, e venho aperfeiçoando meu conhecimento em desenvolvimento de API com Java / Spring.<br>- Gosto de desenvolver soluções para automatizar tarefas. Tenho gosto pelo mundo Linux e aptidão para atuar com resolução de problemas.<br><br>Meu objetivo imediato é ingressar no curso de Análise e Desenvolvimento de Sistemas e caminhar para desenvolvimento Backend.</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+<h3 align="left">Linguagens e ferramentas</h3>
 
 ###
 
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<h3 align="left">🔥 Meus atributos: </h3>
+<h3 align="left">Meus atributos: </h3>
 
 ###
 
