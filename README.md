@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">- Sou Analista de Suporte Jr, atuando no segmento de meios de pagamentos (TEF / Sistemas de Automação Comercial).<br>- Sou estudante de Redes de Computadores, e venho aperfeiçoando meu conhecimento em desenvolvimento de API com Java / Spring.<br>- Gosto de desenvolver soluções para automatizar tarefas. Tenho gosto pelo mundo Linux e aptidão para atuar com resolução de problemas.<br><br>Meu objetivo imediato é ingressar no curso de Análise e Desenvolvimento de Sistemas.</p>
+<p align="left">- Sou Analista de Suporte Jr, atuando no segmento de meios de pagamentos (TEF / Sistemas de Automação Comercial).<br>- Sou estudante de Redes de Computadores, e venho aperfeiçoando meu conhecimento em desenvolvimento de API com Java / Spring.<br>- Gosto de desenvolver soluções para automatizar tarefas. Tenho gosto pelo mundo Linux e aptidão para atuar com resolução de problemas.</p>
 
 ###
 
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mauricioluanss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yellow&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mauricioluanss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
