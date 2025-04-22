@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">- Sou Analista de Suporte Jr, atuando no segmento de meios de pagamentos (TEF / Sistemas de Automação Comercial).<br>- Sou estudante de Redes de Computadores, e venho aperfeiçoando meu conhecimento em desenvolvimento de API com Java / Spring.<br>- Gosto de desenvolver soluções para automatizar tarefas. Tenho gosto pelo mundo Linux e aptidão para atuar com resolução de problemas.</p>
+<p align="left">- Sou Analista de Suporte Jr, atuando no segmento de meios de pagamentos (TEF / Sistemas de Automação Comercial).<br>- Atualmente, curso Redes de Computadores.<br>- Tenho interesse em automação de tarefas, gosto do ecossistema Linux, infraestrutura e possuo forte aptidão para resolução de problemas.</p>
 
 ###
 
