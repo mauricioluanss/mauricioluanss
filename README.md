@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">- Sou Analista de Suporte Jr, atuando no segmento de meios de pagamentos (TEF / Sistemas de Automação Comercial).<br>- Atualmente, curso Redes de Computadores.<br>- Tenho interesse em automação de tarefas, ecossistema Linux e serviços de rede. Possuo forte aptidão para resolução de problemas.</p>
+<p align="left">- Sou Analista de Suporte Jr, atuando no segmento de meios de pagamentos (TEF / Sistemas de Automação Comercial).<br>- Atualmente, curso Redes de Computadores.<br>- Tenho interesse em automação de tarefas, ecossistema Linux e serviços de rede.</p>
 
 ###
 
