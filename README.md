@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">- Sou Analista de Suporte Jr, atuando no segmento de meios de pagamentos (TEF / Sistemas de Automação Comercial).<br>- Atualmente, curso Redes de Computadores.<br>- Tenho interesse em automação de tarefas, desenvolvimento web, ecossistema Linux e serviços de rede.</p>
+<p align="left">- Sou Analista de Suporte Jr, atuando no segmento de meios de pagamentos (TEF / Sistemas de Automação Comercial).<br>- Atualmente, curso Redes de Computadores.<br>- Tenho interesse em desenvolvimento web, automação de tarefas e ecossistema Linux.</p>
 
 ###
 
@@ -16,16 +16,14 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 
 
 </div>
@@ -46,8 +44,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://br.linkedin.com/in/mauricioluanss" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://payerbr.slack.com/team/mauricio" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=flat" height="25" alt="slack logo"  />
 </div>
 
 ###
