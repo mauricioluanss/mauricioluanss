@@ -9,11 +9,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left">- Sou Analista de Suporte Jr, atuando no segmento de meios de pagamentos (TEF / Sistemas de Automação Comercial).<br>- Atualmente, curso Redes de Computadores.<br>- Tenho interesse em desenvolvimento web, automação de tarefas e ecossistema Linux.</p>
 
 ###
-
-<h3 align="left">Meus atributos: </h3>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mauricioluanss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=white&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
