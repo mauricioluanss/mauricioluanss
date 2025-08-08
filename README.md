@@ -6,7 +6,11 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<p align="left">- Sou Analista de Suporte Jr, atuando no segmento de meios de pagamentos (TEF).<br>- Atualmente, curso Análise e Desenvolvimento de Sistemas na PUCRS.<br>- Tenho interesse em desenvolvimento web, automação de tarefas e ecossistema Linux.</p>
+<p align="left">Analista de Suporte em transição de carreira para a área de Desenvolvimento de Software.
+
+Meu foco principal de estudo é o desenvolvimento web front-end com o ecossistema Vue.js. No back-end, dedico-me ao Java, com ênfase no framework Spring Boot e nos sólidos princípios de POO.
+
+Adicionalmente, aplico Python para automação de rotinas e análise de dados, em conjunto com ferramentas como Excel e Power BI. Possuo também familiaridade com bancos de dados NoSQL, como o MongoDB.</p>
 
 ###
 <div align="center">
